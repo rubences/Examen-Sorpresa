@@ -1,5 +1,5 @@
-from punto_constructor import Punto
-from rectangulo import Rectangulo
+from geometria1.punto_constructor import Punto
+from geometria1.rectangulo import Rectangulo
 import math
 
 def distancia(p1, p2):
