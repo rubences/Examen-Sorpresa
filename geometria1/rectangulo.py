@@ -1,4 +1,4 @@
-from punto_constructor import Punto
+from geometria1.punto_constructor import Punto
 
 class Rectangulo:
     def __init__(self, punto_inicial=None, punto_final=None):
